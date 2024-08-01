@@ -1,0 +1,10 @@
+.triangle {
+  height: 0;
+  width: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 40px solid #48f;
+}
+.triangle:hover {
+  border-bottom: 40px solid #5af;
+}
